@@ -1,3 +1,4 @@
+
 pandas
 numpy
 matplotlib
@@ -5,3 +6,33 @@ scikit-learn
 seaborn
 XGBoost
 lightgbm
+=======
+# Core Data Science Libraries
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+XGBoost
+lightgbm
+
+# Jupyter Environment
+jupyter
+notebook
+jupyterlab
+ipykernel
+ipywidgets
+
+# API & Web Framework (Optional - for REST API server)
+flask       
+flask-cors
+gunicorn
+
+# Database (Optional)
+psycopg2-binary
+sqlalchemy
+
+# Utilities
+python-dotenv
+joblib
+
